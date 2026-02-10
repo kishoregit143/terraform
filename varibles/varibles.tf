@@ -18,7 +18,18 @@ variable "ec2_tags" {
       Environment = "DEV"
 
     } 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> 200687e (terraform)
+>>>>>>> be0fc42 (terraform)
+>>>>>>> 93f5506 (terraform)
 }
 variable "sg_name" {
     type = string
